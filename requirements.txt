@@ -10,3 +10,4 @@ jupyter
 ipykernel
 pandas
 numpy 
+tqdm
